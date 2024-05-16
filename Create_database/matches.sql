@@ -1,0 +1,14 @@
+insert into matches(match_id,date,location,home_team_id,away_team_id) values (1,"2019-09-15",'Away',2,1);
+update matches set date = '2021-09-15' where match_id = 1;
+insert into matches(match_id,date,location,home_team_id,away_team_id) values (2,"2021-09-21",'Home',1,3);
+insert into matches(match_id,date,location,home_team_id,away_team_id) values (3,"2021-10-19",'Away',4,1);
+insert into matches(match_id,date,location,home_team_id,away_team_id) values (4,"2021-11-03",'Home',1,4);
+insert into matches(match_id,date,location,home_team_id,away_team_id) values (5,"2021-11-24",'Away',3,1);
+insert into matches(match_id,date,location,home_team_id,away_team_id) values (6,"2021-12-07",'Home',1,2);
+insert into matches(match_id,date,location,home_team_id,away_team_id) values (7,"2022-02-15",'Away',5,1);
+insert into matches(match_id,date,location,home_team_id,away_team_id) values (8,"2022-03-09",'Home',1,5);
+insert into matches(match_id,date,location,home_team_id,away_team_id) values (9,"2022-04-06",'Away',6,1);
+insert into matches(match_id,date,location,home_team_id,away_team_id) values (10,"2022-04-12",'Home',1,6);
+insert into matches(match_id,date,location,home_team_id,away_team_id) values (11,"2022-04-26",'Away',7,1);
+insert into matches(match_id,date,location,home_team_id,away_team_id) values (12,"2022-05-04",'Home',1,7);
+insert into matches(match_id,date,location,home_team_id,away_team_id) values (13,"2022-05-28",'Away',8,1);
